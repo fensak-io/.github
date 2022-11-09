@@ -11,11 +11,15 @@
 </p>
 
 <p align="center">
-  <strong><em>Take control of your Terraform supply chain.</em></strong>
+  <em>Take control of your Terraform supply chain.</em>
 </p>
 
 ---
 
+<p align="center" width="50%">
 Host your modules on our security-first Terraform registry and build TRUST in all of your Terraform dependencies!
+</p>
 
+<p align="center">
 Learn more at https://fensak.io
+</p>
